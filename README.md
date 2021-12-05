@@ -105,7 +105,7 @@ PDF.js is hosted on several free CDNs:
  - https://www.jsdelivr.com/package/npm/pdfjs-dist
  - https://cdnjs.com/libraries/pdf.js
  - https://unpkg.com/pdfjs-dist/
-
+ - https://en.wikipedia.org/wiki/pdf.js
 ## Learning
 
 You can play with the PDF.js API directly from your browser using the live demos below:
