@@ -143,4 +143,8 @@ File an issue:
 
 Follow us on twitter: @pdfjs
 
-+ https://twitter.com/pdfjs
++[Twitter](https://twitter.com/pdfjs)
+
++[pdf.js](https://en.wikipedia.org/wiki/pdf.js)
+
++[Licence](https://creativecommon.org/licence/Apache2.0)
