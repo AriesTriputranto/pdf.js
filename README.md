@@ -148,5 +148,3 @@ Follow us on twitter: @pdfjs
 Reading:pdf.js-wikipedia
 
 +[pdf.js](https://en.wikipedia.org/wiki/pdf.js)
-
-+[CCO](https://www.creativecommon.org)
