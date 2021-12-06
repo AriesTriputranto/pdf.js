@@ -145,6 +145,8 @@ Follow us on twitter: @pdfjs
 
 +[Twitter](https://twitter.com/pdfjs)
 
+Reading:pdf.js-wikipedia
+
 +[pdf.js](https://en.wikipedia.org/wiki/pdf.js)
 
-+[Licence](https://www.creativecommon.org/licence/Apache2.0)
++[CCO](https://www.creativecommon.org)
